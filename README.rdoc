@@ -1,5 +1,4 @@
  README
-==
 
 This is a simple Rails App blog that demonstrates MVC usage, as well as simple
 user authentication, and CRUD/RESTful abilities.
